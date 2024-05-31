@@ -13,7 +13,7 @@
 // @namespace   Dreace
 // @match       *://chatgpt.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Dreace
 // @license     GPL-3.0
 // @description Add syntax highlighting for all languages in ChatGPT (using highlight.js)
