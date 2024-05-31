@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ChatGPT 代码高亮
+// @name        ChatGPT Code Highlight
 // @name:en     ChatGPT Code Highlight
 // @name:zh-CN  ChatGPT 代码高亮
 // @name:es     Resaltado de Código de ChatGPT
@@ -15,8 +15,8 @@
 // @grant       none
 // @version     1.0
 // @author      Dreace
-// @description 为 ChatGPT 添加所有语言代码高亮（使用 highlight.js）
-// @description 为 ChatGPT 添加所有语言代码高亮（使用 highlight.js）
+// @license     GPL-3.0
+// @description Add syntax highlighting for all languages in ChatGPT (using highlight.js)
 // @description:en Add syntax highlighting for all languages in ChatGPT (using highlight.js)
 // @description:zh-CN 为 ChatGPT 添加所有语言代码高亮（使用 highlight.js）
 // @description:es Agrega resaltado de sintaxis para todos los lenguajes en ChatGPT (usando highlight.js)
