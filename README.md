@@ -13,7 +13,7 @@
 
 - Chrome 推荐使用扩展：「[Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)」
 - Firefox 推荐使用扩展：「[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)」
-- 脚本地址：[https://greasyfork.org/scripts/393096-ChatGPTCodeHighlight](https://greasyfork.org/scripts/393096-ChatGPTCodeHighlight)
+- 脚本地址：[https://greasyfork.org/zh-CN/scripts/496646-chatgpt-code-highlight](https://greasyfork.org/zh-CN/scripts/496646-chatgpt-code-highlight)
 
 ## 使用
 
@@ -33,7 +33,7 @@ Add syntax highlighting to all language codes written for ChatGPT. Supports all 
 
 - For Chrome, it is recommended to use the extension: "[Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)"
 - For Firefox, it is recommended to use the extension: "[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)"
-- Script URL: [https://greasyfork.org/scripts/393096-ChatGPTCodeHighlight](https://greasyfork.org/scripts/393096-ChatGPTCodeHighlight)
+- Script URL: [https://greasyfork.org/zh-CN/scripts/496646-chatgpt-code-highlight](https://greasyfork.org/zh-CN/scripts/496646-chatgpt-code-highlight)
 
 ## Usage
 
