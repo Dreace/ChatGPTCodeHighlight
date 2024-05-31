@@ -3,7 +3,7 @@
 为 ChatGPT 编写的所有语言代码增加高亮显示。
 支持 [Highlight.js](https://highlightjs.org/) 所有的 192 种语言，与 ChatGPT 主题保持一致。
 
-![preview](./preview.png)
+![preview](https://raw.githubusercontent.com/Dreace/ChatGPTCodeHighlight/master/preview.png)
 
 ## GitHub
 
@@ -23,7 +23,7 @@
 
 Add syntax highlighting to all language codes written for ChatGPT. Supports all 192 languages of [Highlight.js](https://highlightjs.org/) and maintains consistency with the ChatGPT theme.
 
-![preview](./preview.png)
+![preview](https://raw.githubusercontent.com/Dreace/ChatGPTCodeHighlight/master/preview.png)
 
 ## GitHub
 
