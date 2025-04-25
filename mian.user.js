@@ -229,8 +229,8 @@ function highlightBlock(block) {
     }
     const languageName = block.className.match(/language-(\w+)/);
     if (languageName) {
-        if (block.children.length === 0) {
-            hljs.highlightElement(block);
+        if (block.children[0].children.length === 0) {
+            hljs.highlightElement(block.children[0]);
             block.dataset.highlighted = true;
         }
     }
