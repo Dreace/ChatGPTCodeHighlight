@@ -13,7 +13,7 @@
 // @namespace   Dreace
 // @match       *://chatgpt.com/*
 // @grant       none
-// @version     1.1
+// @version     1.2
 // @author      Dreace
 // @license     GPL-3.0
 // @description Add syntax highlighting for all languages in ChatGPT (using highlight.js)
@@ -239,7 +239,7 @@ setInterval(() => {
     document.querySelectorAll(".markdown").forEach((markdownBlock) => {
         if (markdownBlock.dataset.highlighted) {
             return;
-        } else if (markdownBlock.className.includes("result-streaming")) {
+        } else if (markdownBlock.className.includes("streaming-animation")) {
             const preBlocks = markdownBlock.querySelectorAll("pre");
             preBlocks.forEach((preBlock) => {
                 if (preBlock.nextElementSibling) {
